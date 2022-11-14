@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f77d32ed3acfa749",
+    "type": "split",
+    "children": [
+      {
+        "id": "496f3a482fa5adee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "quantum_gates_list.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2527e6cc566fcf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c74f52cef2f80a92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ccc13d2b9e36fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ef670213b628233",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ca6dcec6a37ec7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d0c324ae79ba6f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcee40caf3900dd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0da281164dfa172",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "quantum_gates_list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2dc7392a552911b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "quantum_gates_list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a83d5a061741bbb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd786adaa0a6719d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "quantum_gates_list.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "496f3a482fa5adee",
+  "lastOpenFiles": [
+    "Quantum Gates.md",
+    "quantum_gates_list.md",
+    "Qubitvsbit.md",
+    "Teleportation.md",
+    "Dense Coding.md",
+    "Qubit.md",
+    "ERP particula.md",
+    "Teoria de la Información.md",
+    "espacio vectorial.md",
+    "producto tensor.md"
+  ]
+}

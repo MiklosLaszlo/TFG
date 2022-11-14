@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f77d32ed3acfa749",
+    "type": "split",
+    "children": [
+      {
+        "id": "635d13ee9d27fe54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "950c4093d382b5be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2527e6cc566fcf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c74f52cef2f80a92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ccc13d2b9e36fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ef670213b628233",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ca6dcec6a37ec7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0c324ae79ba6f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcee40caf3900dd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0da281164dfa172",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2dc7392a552911b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a83d5a061741bbb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd786adaa0a6719d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "950c4093d382b5be",
+  "lastOpenFiles": [
+    "producto tensor.md",
+    "Quantum Computing.md",
+    "Documentacion_TFG/Quantum_Computing_Explained_David_McMahon.pdf",
+    "Operador de Densidad.md",
+    "Operators.md",
+    "Espacio vectorial.md",
+    "Notas sueltas.md",
+    "Quantum Gates.md",
+    "ERP particula.md",
+    "quantum_gates_list.md"
+  ]
+}
