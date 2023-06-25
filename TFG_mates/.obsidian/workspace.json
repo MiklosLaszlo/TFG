@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "635d13ee9d27fe54",
+        "id": "f15d707a44fc534b",
         "type": "tabs",
         "children": [
           {
-            "id": "950c4093d382b5be",
+            "id": "a4f0ec40e3ed9e65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operators.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5eff580c5ee026b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operators.md"
+              }
             }
           }
         ]
@@ -128,17 +144,40 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "950c4093d382b5be",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a4f0ec40e3ed9e65",
   "lastOpenFiles": [
     "producto tensor.md",
-    "Quantum Computing.md",
-    "Documentacion_TFG/Quantum_Computing_Explained_David_McMahon.pdf",
-    "Operador de Densidad.md",
+    "Operadores de Pauli.md",
     "Operators.md",
-    "Espacio vectorial.md",
-    "Notas sueltas.md",
+    "Quantum Computing.md",
+    "Operador de Densidad.md",
+    "Documentacion_TFG/Resumen.pdf",
+    "Teleportation.md",
+    "Dense Coding.md",
     "Quantum Gates.md",
-    "ERP particula.md",
-    "quantum_gates_list.md"
+    "Documentacion_TFG/gateDecompostion1.pdf",
+    "Notas sueltas.md",
+    "Documentacion_TFG/Supervised Learning with Quantum Computers by Maria Schuld, Francesco Petruccione (z-lib.org).pdf",
+    "Documentacion_TFG/Sin confirmar 768939.crdownload",
+    "Documentacion_TFG/Mathematics Of Quantum Computing An Introduction by Wolfgang Scherer (z-lib.org).pdf",
+    "Documentacion_TFG/Sin confirmar 830027.crdownload",
+    "Quantum Measurement Theory.md",
+    "quantum_gates_list.md",
+    "Qubitvsbit.md",
+    "Documentacion_TFG/9503016.pdf",
+    "Espacio vectorial.md",
+    "Qubit.md",
+    "Bloch Sphere.md",
+    "Algoritmo de Groover.md"
   ]
 }

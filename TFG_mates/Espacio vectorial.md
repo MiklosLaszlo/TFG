@@ -34,7 +34,7 @@ Es una aplicación de $V\times V:\longrightarrow K$, en nuestro caso $K = \mathb
 Con la linealidad y antilinealidad podemos solo tomar una, ya que la otra se podría deducir del resto de propiedades.
 
 Un producto escalar es: $<u|v> = \overline{u}^T \ v$ , este es el producto escalar usual y es el que se usará normalmente. Con este producto obtenemos un [espacio de Hilbert].
-De hay que en computación cuántica se usa la sugestiva notación de $\overline{u}^T=\bra{u}$, también se le llama [Hermitian conjugate].
+De hay que en computación cuántica se usa la sugestiva notación de $(\ket{u})^\dagger=\overline{u}^T=\bra{u}$, también se le llama [Hermitian conjugate].
 
 Se define la norma de un vector como: $\lVert v \rVert = \sqrt{<v|v>}$.
 

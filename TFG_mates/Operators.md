@@ -43,13 +43,8 @@ Podemos calcular los coeficientes de la matriz $A$ dada una base $\{\ket{u_1},\d
 Para los qubits las matrices serán $2\times2$ y con coeficientes complejos.
 
 #### Operadores (Transformaciones) de Pauli
-Un conjunto de operadores importante para la computación cuántica. Son las aplicaciones lineales $\{I,X,Y,Z\}=\{\sigma_{0},\sigma_{1},\sigma_{2},\sigma_{3}\}=\{\sigma_{0},\sigma_{X},\sigma_{Y},\sigma_{Z}\}$ , aunque el operador identidad, $I$, se omite algunas veces. Concretando como actuan las aplicaciones sobre una base:
-- $I\ket{0}=\ket{0}$ , $I\ket{1}=\ket{1}$
--  $X\ket{0}=\ket{1}$ , $X\ket{1}=\ket{0}$
--  $Z\ket{0}=\ket{0}$ , $Z\ket{1}=-\ket{1}$
--  $Y\ket{0}=-i\ket{1}$ , $Y\ket{1}=i\ket{0}$
-En versión matricial seria:
-$$I=\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} \ \ X=\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix} \ \ Z=\begin{pmatrix} 1 & 0 \\ 0 & -1 \end{pmatrix} \ \ Y=\begin{pmatrix} 0 & i \\ -i & 0 \end{pmatrix}$$
+![[Operadores de Pauli]]
+
 
 ##### NOTA IMPORTANTE
 En la propia bibliografía al da 2 expresiones de Y, primero da la que he puesto arriba y luego cuando hace la expresión matricial usa $Y\ket{0}=i\ket{1}$ , $Y\ket{1}=-i\ket{0}$. Hasta no ver aplicaciones más tarde no voy a decantarme por una sobre la otra.
@@ -90,7 +85,7 @@ $$A=\sum\limits_{i=1}^n\lambda_i\ket{u_i}\bra{u_i}$$
 
 #### Traza
 La traza de un operador es dada cualquier representación matricial suya, es la traza de la matriz (la suma de suma de los elementos de la diagonal). Este número es invariante respecto a la base que se escoja. Una forma de calcularla es dada una base $\{\ket{u_1},\dots,\ket{u_n}\}$:
-$$Tr(A)=\sum\limits_{i=0}^n\bra{u_i}A\ket{u_i}$$
+$$Tr(A)=\sum\limits_{i=1}^n\bra{u_i}A\ket{u_i}$$
 ##### Propiedades
 - Cíclica, $Tr(ABC)=Tr(CAB)=Tr(BCA)$
 - La traza del producto externo es el producto interno, $Tr(\ket{v}\bra{w})=<w|v>$
